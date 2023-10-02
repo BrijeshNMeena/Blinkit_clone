@@ -52,10 +52,6 @@ nav{
     overflow-x: scroll;
 }
 
-/* For global */
-/* ::-webkit-scrollbar{
-    display: none;
-} */
 
 .list::-webkit-scrollbar{
     display: none;
